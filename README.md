@@ -1,2 +1,2 @@
 # neko_recognization
-Kadai
+This is my study subject for Intelligent System in Hiroshima University
